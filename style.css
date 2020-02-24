@@ -16,6 +16,13 @@ div {
   border-radius: 50%;
   background-color: #eee;
 }
+.tango {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
 
 .blue {
   background-color: blue;
